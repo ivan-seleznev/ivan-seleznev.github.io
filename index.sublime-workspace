@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font-size",
+				"font-size-base"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bs3-c",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"bs",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"bs3",
+				"bs3-thumbnail\tbs3-thumbnail"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"ston",
+				"strong\tTag"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"BEA",
+				"HTMLBeautify"
+			],
+			[
+				"FO\t\tRMA",
+				"Format CSS: Expanded"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"buil",
+				"Build With: Python"
+			],
+			[
+				"syn pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"help",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"un",
+				"Unicode Character Insert: Show Panel"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"ls",
+			"help",
+			"echo",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/Gruntfile.js",
+		"/C/Users/leonid/Documents/My Projects/ivan-seleznev.github.io/index.html",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/css/styles.css",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/css/styles.min.css",
+		"/C/Users/leonid/Downloads/Program-Files (2)/Program Files/digital_agency/less/main.less",
+		"/C/Users/leonid/YandexDisk/projects/ivanseleznev/lorem.html",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/css/test.min.css",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/less/test.less",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/css/test.css",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/src/less/styles.less",
+		"/C/Users/leonid/Downloads/workflow-master/workflow-master/gulpfile.js",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/package.json",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/src/css/styles.min.css",
+		"/C/Users/leonid/Downloads/understrap/gulpfile.js",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/.gitignore",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/index.html",
+		"/C/Users/leonid/Documents/My Projects/ivanseleznev/ivanseleznev.sublime-project",
+		"/C/Users/leonid/Downloads/bootstrap-3.3.7 (2)/bootstrap-3.3.7/package.json",
+		"/C/Users/leonid/Downloads/bootstrap-3.3.7 (2)/bootstrap-3.3.7/Gruntfile.js",
+		"/C/Users/leonid/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/leonid/Desktop/test/test.py",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/Gruntfile.js",
+		"/C/Users/leonid/Desktop/test.py",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/index.html",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/components/less/_mystyles.less",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/.gitignore",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/css/mystyles.css",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/css/bootstrap.min.css",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/fabrikapogody.sublime-project",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/components/less/!mystyles.less",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/components/js/_bootstrap.js",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/components/js/_myscripts.js",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/css/bootstrap.css",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/_/components/js/_tmp.js",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/test.css",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/test.js",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/test.less",
+		"/C/Users/leonid/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/leonid/Documents/My Projects/fabrikapogody/testfolder/testfile.php",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/index.html",
+		"/C/Users/leonid/YandexDisk/projects/wf6/settings.txt",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/node_modules/normalize.css/package.json",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/node_modules/normalize.css/normalize.css",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/styles/styles.css",
+		"/C/Users/leonid/Desktop/index.html",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/node_modules/normalize.css/README.md",
+		"/C/Users/leonid/AppData/Roaming/Sublime Text 3/Installed Packages/HTMLEntity Snippets.sublime-package",
+		"/C/Users/leonid/YandexDisk/projects/html-templates/psd-html - tutorial/psd-html - tutorial.sublime-project",
+		"/C/Users/leonid/Desktop/temp/udacity/intro - HTML-CSS/portfolio/framework/test.html",
+		"/C/Users/leonid/Desktop/temp/udacity/intro - HTML-CSS/portfolio/framework/css/main.css",
+		"/C/Users/leonid/Desktop/temp/udacity/intro - HTML-CSS/toplist/index.html",
+		"/C/Users/leonid/Desktop/temp/udacity/intro - HTML-CSS/toplist/style.css",
+		"/C/Temp/mysite/polls/urls.py",
+		"/C/Temp/mysite/polls/models.py",
+		"/C/Temp/mysite/mysite/settings.py",
+		"/C/Temp/mysite/polls/admin.py",
+		"/C/Temp/mysite/mysite/urls.py",
+		"/C/Temp/mysite/polls/views.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sass",
+			"scss",
+			"browser",
+			"_",
+			"nav",
+			".img-responsive",
+			"337AB7",
+			"codekit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sources"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
